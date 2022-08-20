@@ -15,6 +15,7 @@
 
 .App-header {
   background-color: #fff;
+  font-size: 20px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
