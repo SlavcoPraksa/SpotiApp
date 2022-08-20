@@ -14,7 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #fff;
+  font-size: 20px;
   min-height: 100vh;
   border: 1px solid black;
   display: flex;
@@ -22,7 +23,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 }
 
 .App-link {
